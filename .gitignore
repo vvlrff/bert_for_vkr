@@ -1,2 +1,5 @@
 docker-compose.yml
 bert
+distil_roberta_model
+roberta_classification_model
+distilbert_model
